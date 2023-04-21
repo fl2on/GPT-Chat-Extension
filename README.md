@@ -19,7 +19,7 @@ The OpenAI Chat Extension is a browser extension that allows users to generate A
 
 ## Documentation
 
-- Go to the OpenAI API page on RapidAPI https://rapidapi.com/openai-api-openai-api-default/api/openai80/.
+- Go to the OpenAI API page on [RapidAPI](https://rapidapi.com/openai-api-openai-api-default/api/openai80/).
 - Click the "Subscribe to Test" button.
 - Select the free "Free" plan and click "Subscribe".
 - Follow the instructions to sign up for RapidAPI or log in if you already have an account.
