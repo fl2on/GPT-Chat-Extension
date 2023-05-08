@@ -3,6 +3,11 @@
 
 The OpenAI Chat Extension is a browser extension that allows users to generate AI-powered responses using OpenAI's chat API. It can be activated by selecting text on any webpage and right-clicking to choose "Generate response with OpenAI" from the context menu. The extension then sends the selected text to the OpenAI chat API, which generates a response that is displayed in a pop-up window.
 
+## Translation
+| 🇺🇸 | 🇨🇳 | 🇹🇼 | 🇮🇳 | 🇫🇷 | 🇦🇪 | 🇩🇪 | 🇯🇵 | 🇪🇸 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [English](README.md) | [简体中文](README.zh-CN.md) | [繁体中文](README.zh-TW.md) | [हिंदी](README.hi.md) | [Française](README.fr.md) | [عربى](README.ar.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [Español](README.es.md) |
+
 ## Screenshots
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1008195045960204349/1099103637608878090/New_Website_Blue_Mockup_Instagram_-_Laptop.gif)
