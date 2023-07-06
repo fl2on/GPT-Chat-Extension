@@ -11,12 +11,12 @@ chrome.contextMenus.onClicked.addListener(function (info, tab) {
       headers: {
         "content-type": "application/json",
         "X-RapidAPI-Key": "YOUR API KEY",
-        "X-RapidAPI-Host": "openai80.p.rapidapi.com",
+        "X-RapidAPI-Host": "chatgpt-chatgpt3-5-chatgpt4.p.rapidapi.com",
       },
       body: `{"model":"gpt-3.5-turbo","messages":[{"role":"user","content":"${info.selectionText}"}]}`,
     };
 
-fetch("https://openai80.p.rapidapi.com/chat/completions", options)
+fetch("https://chatgpt-chatgpt3-5-chatgpt4.p.rapidapi.com/v1/chat/completions", options)
   .then((response) => response.json())
   .then((response) => {
     const choice = response.choices[0];
