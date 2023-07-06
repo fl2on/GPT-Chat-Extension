@@ -1,12 +1,12 @@
 # Chat-GPT-Weberweiterung
 
-Die OpenAI-Chat-Erweiterung ist eine Browsererweiterung, mit der Benutzer mithilfe der Chat-API von OpenAI KI-gestützte Antworten generieren können. Es kann aktiviert werden, indem Sie Text auf einer beliebigen Webseite auswählen und mit der rechten Maustaste klicken, um „Antwort mit OpenAI generieren“ aus dem Kontextmenü auszuwählen. Die Erweiterung sendet dann den ausgewählten Text an die OpenAI-Chat-API, die eine Antwort generiert, die in einem Popup-Fenster angezeigt wird.
+Die OpenAI-Chat-Erweiterung ist eine Browser-Erweiterung, die es Benutzern ermöglicht, mithilfe der Chat-API von OpenAI KI-gestützte Antworten zu generieren. Sie kann aktiviert werden, indem Sie Text auf einer beliebigen Webseite auswählen und mit der rechten Maustaste klicken, um im Kontextmenü „Antwort mit OpenAI generieren“ auszuwählen. Anschließend sendet die Erweiterung den ausgewählten Text an die OpenAI-Chat-API, die eine Antwort generiert, die in einem Popup-Fenster angezeigt wird.
 
 ## Übersetzung
 
-| 🇺🇸                  | 🇨🇳                                        | 🇹🇼                                         | 🇮🇳                  | 🇫🇷                        | 🇦🇪                     | 🇩🇪                    | 🇯🇵                      | 🇪🇸                     |
-| --------------------- | ------------------------------------------- | -------------------------------------------- | --------------------- | --------------------------- | ------------------------ | ----------------------- | ------------------------- | ------------------------ |
-| [Englisch](README.md) | [Vereinfachtes Chinesisch](README.zh-CN.md) | [traditionelles Chinesisch](README.zh-TW.md) | [Hindi](README.hi.md) | [Französisch](README.fr.md) | [Arabisch](README.ar.md) | [Deutsch](README.de.md) | [japanisch](README.ja.md) | [Spanisch](README.es.md) |
+| 🇺🇸                  | 🇨🇳                                        | 🇹🇼                                         | 🇮🇳                  | 🇫🇷                        | 🇦🇪                   | 🇩🇪                    | 🇯🇵                      | 🇪🇸                     |
+| --------------------- | ------------------------------------------- | -------------------------------------------- | --------------------- | --------------------------- | ---------------------- | ----------------------- | ------------------------- | ------------------------ |
+| [Englisch](README.md) | [Vereinfachtes Chinesisch](README.zh-CN.md) | [traditionelles Chinesisch](README.zh-TW.md) | [Hindi](README.hi.md) | [Französisch](README.fr.md) | [Araber](README.ar.md) | [Deutsch](README.de.md) | [japanisch](README.ja.md) | [Spanisch](README.es.md) |
 
 ## Screenshots
 
@@ -14,20 +14,20 @@ Die OpenAI-Chat-Erweiterung ist eine Browsererweiterung, mit der Benutzer mithil
 
 ## Merkmale
 
--   Erzeugt Antworten mit der Chat-API von OpenAI
--   Integration mit Chrome-Kontextmenüs für einfachen Zugriff
--   Kopiert die generierte Antwort in die Zwischenablage zum schnellen Einfügen
+-   Erzeugt Antworten mithilfe der Chat-API von OpenAI
+-   Integriert sich in Chrome-Kontextmenüs für einfachen Zugriff
+-   Kopiert die generierte Antwort zum schnellen Einfügen in die Zwischenablage
 -   Einfacher Installationsprozess
--   Ausführliche Dokumentation und FAQ
--   Open-Source auf GitHub
+-   Detaillierte Dokumentation und FAQ
+-   Open Source auf GitHub
 
 ## Dokumentation
 
--   Gehen Sie auf die OpenAI-API-Seite[RapidAPI](https://rapidapi.com/openai-api-openai-api-default/api/openai80/).
--   Klicken Sie auf die Schaltfläche "Test abonnieren".
--   Wählen Sie den kostenlosen „Free“-Tarif und klicken Sie auf „Abonnieren“.
--   Befolgen Sie die Anweisungen, um sich für RapidAPI anzumelden, oder melden Sie sich an, wenn Sie bereits ein Konto haben.
--   On the OpenAI API service page, look for the - - "X-RapidAPI-Key" section in the list of required request headers.
+-   Gehen Sie zur OpenAI-API-Seite unter[RapidAPI](https://rapidapi.com/openai-api-openai-api-default/api/openai80/).
+-   Klicken Sie auf die Schaltfläche „Test abonnieren“.
+-   Wählen Sie den kostenlosen Plan „Kostenlos“ und klicken Sie auf „Abonnieren“.
+-   Befolgen Sie die Anweisungen, um sich bei RapidAPI anzumelden, oder melden Sie sich an, wenn Sie bereits ein Konto haben.
+-   Suchen Sie auf der Seite des OpenAI-API-Dienstes in der Liste der erforderlichen Anforderungsheader nach dem Abschnitt „X-RapidAPI-Key“.
 -   Kopieren Sie Ihren RapidAPI-API-Schlüssel in den Abschnitt „X-RapidAPI-Key“ in der Datei „background.js“ in Ihrer Chrome-Erweiterung.
 
 ## Installation
@@ -44,23 +44,23 @@ Die OpenAI-Chat-Erweiterung ist eine Browsererweiterung, mit der Benutzer mithil
 
 #### Was ist GPT-3?
 
-GPT-3 steht für Generative Pre-trained Transformer 3. Es ist ein fortschrittliches KI-Sprachmodell, das von OpenAI entwickelt wurde und in der Lage ist, natürliche Sprache zu verarbeiten und zu generieren.
+GPT-3 steht für Generative Pre-trained Transformer 3. Es handelt sich um ein fortschrittliches KI-Sprachmodell, das von OpenAI entwickelt wurde und in der Lage ist, natürliche Sprache zu verarbeiten und zu generieren.
 
 #### Was ist diese OpenAI-Chat-Erweiterung?
 
-Dies ist eine Chrome-Erweiterung, die GPT-3 verwendet, um Antworten für ausgewählten Text auf jeder Webseite zu generieren. Sie können ein Gespräch mit GPT-3 führen, indem Sie einen beliebigen Text auswählen und auf das Kontextmenü klicken.
+Dies ist eine Chrome-Erweiterung, die GPT-3 verwendet, um Antworten für ausgewählten Text auf einer beliebigen Webseite zu generieren. Sie können eine Konversation mit GPT-3 führen, indem Sie einen beliebigen Text auswählen und auf das Kontextmenü klicken.
 
 #### Wie funktioniert diese Erweiterung?
 
 Wenn Sie einen beliebigen Text auf einer Webseite auswählen und auf das Kontextmenü klicken, sendet die Erweiterung eine Anfrage an die OpenAI-API mit dem ausgewählten Text als Eingabe. Die API antwortet mit einer generierten Antwort, die dann in einem Warnfeld angezeigt wird.
 
-#### Ist die Erweiterung sicher?
+#### Is the extension secure?
 
-Ja, die Erweiterung ist sicher. Es funktioniert nur mit dem ausgewählten Text und greift nicht auf persönliche Informationen zu oder speichert diese. Es wird jedoch immer empfohlen, bei der Installation von Erweiterungen von Drittanbietern Vorsicht walten zu lassen.
+Ja, die Erweiterung ist sicher. Es funktioniert nur mit dem ausgewählten Text und greift nicht auf persönliche Informationen zu und speichert diese auch nicht. Es wird jedoch immer empfohlen, bei der Installation von Erweiterungen von Drittanbietern Vorsicht walten zu lassen.
 
 #### Kann der Websitebesitzer die generierte Antwort sehen?
 
-Nein, die generierte Antwort wird nur in der Warnbox angezeigt und nicht an die Website oder ihren Eigentümer zurückgesendet.
+Nein, die generierte Antwort wird nur im Benachrichtigungsfeld angezeigt und nicht an die Website oder deren Eigentümer zurückgesendet.
 
 ## Autoren
 
