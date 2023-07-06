@@ -4,9 +4,9 @@ La extensión de chat de OpenAI es una extensión del navegador que permite a lo
 
 ## Traducción
 
-| 🇺🇸                | 🇨🇳                                  | 🇹🇼                                 | 🇮🇳                  | 🇫🇷                     | 🇦🇪                  | 🇩🇪                   | 🇯🇵                    | 🇪🇸                    |
-| ------------------- | ------------------------------------- | ------------------------------------ | --------------------- | ------------------------ | --------------------- | ---------------------- | ----------------------- | ----------------------- |
-| [Inglés](README.md) | [chino simplificado](README.zh-CN.md) | [chino tradicional](README.zh-TW.md) | [hindi](README.hi.md) | [Francésa](README.fr.md) | [árabe](README.ar.md) | [Alemán](README.de.md) | [japonés](README.ja.md) | [Español](README.es.md) |
+| 🇺🇸                | 🇨🇳                                  | 🇹🇼                    | 🇮🇳                  | 🇫🇷                     | 🇦🇪                  | 🇩🇪                   | 🇯🇵                    | 🇪🇸                    |
+| ------------------- | ------------------------------------- | ----------------------- | --------------------- | ------------------------ | --------------------- | ---------------------- | ----------------------- | ----------------------- |
+| [Inglés](README.md) | [chino simplificado](README.zh-CN.md) | [繁体中文](README.zh-TW.md) | [hindi](README.hi.md) | [Francésa](README.fr.md) | [árabe](README.ar.md) | [Alemán](README.de.md) | [japonés](README.ja.md) | [Español](README.es.md) |
 
 ## capturas de pantalla
 
@@ -23,7 +23,7 @@ La extensión de chat de OpenAI es una extensión del navegador que permite a lo
 
 ## Documentación
 
--   Vaya a la página de la API de OpenAI en[API rápida](https://rapidapi.com/openai-api-openai-api-default/api/openai80/).
+-   Vaya a la página de la API de OpenAI en[API rápida](https://rapidapi.com/liuzhaolong765481/api/chatgpt-chatgpt3-5-chatgpt4/).
 -   Haga clic en el botón "Suscribirse a la prueba".
 -   Seleccione el plan gratuito "Gratis" y haga clic en "Suscribirse".
 -   Siga las instrucciones para registrarse en RapidAPI o inicie sesión si ya tiene una cuenta.
@@ -34,7 +34,7 @@ La extensión de chat de OpenAI es una extensión del navegador que permite a lo
 
 -   Descarga el código fuente de la extensión desde el repositorio de Github.
 -   Extraiga la carpeta descargada.
--   Abra Google Chrome y vaya a la página "Extensiones". Puede hacerlo escribiendo "chrome://extensions/" en la barra de direcciones o haciendo clic en los tres puntos en la esquina superior derecha de Chrome, seleccionando "Más herramientas" y luego "Extensiones".
+-   Abra Google Chrome y vaya a la página "Extensiones". Puede hacerlo escribiendo "chrome://extensiones/" en la barra de direcciones o haciendo clic en los tres puntos en la esquina superior derecha de Chrome, seleccionando "Más herramientas" y luego "Extensiones".
 -   Una vez que esté en la página "Extensiones", cambie el interruptor en la esquina superior derecha para habilitar el modo de desarrollador.
 -   Haga clic en el botón "Cargar desempaquetado" y seleccione la carpeta extraída que contiene el código fuente de la extensión.
 -   Una vez que se carga la extensión, debería aparecer en la barra de herramientas de su navegador.
