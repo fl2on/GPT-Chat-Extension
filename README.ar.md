@@ -1,6 +1,6 @@
 # ملحق ويب Chat-GPT
 
-The OpenAI Chat Extension is a browser extension that allows users to generate AI-powered responses using OpenAI's chat API. It can be activated by selecting text on any webpage and right-clicking to choose "Generate response with OpenAI" from the context menu. The extension then sends the selected text to the OpenAI chat API, which generates a response that is displayed in a pop-up window.
+يعد OpenAI Chat Extension امتدادًا للمتصفح يسمح للمستخدمين بإنشاء استجابات مدعومة بالذكاء الاصطناعي باستخدام واجهة برمجة تطبيقات الدردشة الخاصة بـ OpenAI. يمكن تنشيطه عن طريق تحديد نص في أي صفحة ويب والنقر بزر الماوس الأيمن لاختيار "إنشاء استجابة باستخدام OpenAI" من قائمة السياق. يرسل الامتداد بعد ذلك النص المحدد إلى واجهة برمجة تطبيقات الدردشة OpenAI ، والتي تنشئ استجابة يتم عرضها في نافذة منبثقة.
 
 ## ترجمة
 
@@ -23,7 +23,7 @@ The OpenAI Chat Extension is a browser extension that allows users to generate A
 
 ## توثيق
 
--   انتقل إلى صفحة OpenAI API على[رابيدابي](https://rapidapi.com/openai-api-openai-api-default/api/openai80/).
+-   انتقل إلى صفحة OpenAI API على[رابيدابي](https://rapidapi.com/liuzhaolong765481/api/chatgpt-chatgpt3-5-chatgpt4/).
 -   انقر فوق الزر "اشتراك في الاختبار".
 -   حدد الخطة "المجانية" وانقر على "اشتراك".
 -   اتبع التعليمات للتسجيل في RapidAPI أو تسجيل الدخول إذا كان لديك حساب بالفعل.
