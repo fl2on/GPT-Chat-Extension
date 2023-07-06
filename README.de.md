@@ -23,7 +23,7 @@ Die OpenAI-Chat-Erweiterung ist eine Browser-Erweiterung, die es Benutzern ermö
 
 ## Dokumentation
 
--   Gehen Sie zur OpenAI-API-Seite unter[RapidAPI](https://rapidapi.com/openai-api-openai-api-default/api/openai80/).
+-   Gehen Sie zur OpenAI-API-Seite unter[RapidAPI](https://rapidapi.com/liuzhaolong765481/api/chatgpt-chatgpt3-5-chatgpt4/).
 -   Klicken Sie auf die Schaltfläche „Test abonnieren“.
 -   Wählen Sie den kostenlosen Plan „Kostenlos“ und klicken Sie auf „Abonnieren“.
 -   Befolgen Sie die Anweisungen, um sich bei RapidAPI anzumelden, oder melden Sie sich an, wenn Sie bereits ein Konto haben.
@@ -54,7 +54,7 @@ Dies ist eine Chrome-Erweiterung, die GPT-3 verwendet, um Antworten für ausgew�
 
 Wenn Sie einen beliebigen Text auf einer Webseite auswählen und auf das Kontextmenü klicken, sendet die Erweiterung eine Anfrage an die OpenAI-API mit dem ausgewählten Text als Eingabe. Die API antwortet mit einer generierten Antwort, die dann in einem Warnfeld angezeigt wird.
 
-#### Is the extension secure?
+#### Ist die Erweiterung sicher?
 
 Ja, die Erweiterung ist sicher. Es funktioniert nur mit dem ausgewählten Text und greift nicht auf persönliche Informationen zu und speichert diese auch nicht. Es wird jedoch immer empfohlen, bei der Installation von Erweiterungen von Drittanbietern Vorsicht walten zu lassen.
 
