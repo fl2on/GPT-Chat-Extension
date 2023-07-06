@@ -17,13 +17,13 @@ OpenAI 聊天擴展是一個瀏覽器擴展，允許用戶使用 OpenAI 的聊�
 -   使用 OpenAI 的聊天 API 生成響應
 -   與 Chrome 上下文菜單集成以方便訪問
 -   將生成的響應複製到剪貼板以便快速粘貼
--   簡單的安裝過程
--   詳細的文檔和常見問題解答
+-   安裝過程簡單
+-   詳細文檔和常見問題解答
 -   在 GitHub 上開源
 
 ## 文檔
 
--   轉至 OpenAI API 頁面[快速API](https://rapidapi.com/openai-api-openai-api-default/api/openai80/).
+-   轉至 OpenAI API 頁面[快速API](https://rapidapi.com/liuzhaolong765481/api/chatgpt-chatgpt3-5-chatgpt4/).
 -   單擊“訂閱測試”按鈕。
 -   選擇免費的“免費”計劃並單擊“訂閱”。
 -   按照說明註冊 RapidAPI，如果您已有帳戶，請登錄。
@@ -34,7 +34,7 @@ OpenAI 聊天擴展是一個瀏覽器擴展，允許用戶使用 OpenAI 的聊�
 
 -   從 Github 存儲庫下載擴展的源代碼。
 -   解壓下載的文件夾。
--   打開 Google Chrome 並導航至“擴展”頁面。您可以通過在地址欄中輸入“chrome://extensions/”或單擊 Chrome 右上角的三個點，選擇“更多工具”，然後選擇“擴展”來執行此操作。
+-   打開 Google Chrome 並導航至“擴展”頁面。您可以通過在地址欄中鍵入“chrome://extensions/”或單擊 Chrome 右上角的三個點，選擇“更多工具”，然後選擇“擴展”來執行此操作。
 -   進入“擴展”頁面後，切換右上角的開關以啟用開發人員模式。
 -   單擊“加載解壓”按鈕，然後選擇包含擴展源代碼的解壓文件夾。
 -   加載擴展程序後，它應該出現在瀏覽器的工具欄中。
@@ -44,7 +44,7 @@ OpenAI 聊天擴展是一個瀏覽器擴展，允許用戶使用 OpenAI 的聊�
 
 #### 什麼是 GPT-3？
 
-GPT-3代表Generative Pre-trained Transformer 3。它是OpenAI開發的一種能夠進行自然語言處理和生成的高級AI語言模型。
+GPT-3 stands for Generative Pre-trained Transformer 3. It is an advanced AI language model developed by OpenAI that is capable of natural language processing and generation.
 
 #### 這個 OpenAI 聊天擴展程序是什麼？
 
