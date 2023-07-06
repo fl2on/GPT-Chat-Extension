@@ -23,7 +23,7 @@ L'OpenAI Chat Extension est une extension de navigateur qui permet aux utilisate
 
 ## Documentation
 
--   Go to the OpenAI API page on [RapidAPI](https://rapidapi.com/openai-api-openai-api-default/api/openai80/).
+-   Accédez à la page de l'API OpenAI sur[RapidAPI](https://rapidapi.com/openai-api-openai-api-default/api/openai80/).
 -   Cliquez sur le bouton "S'abonner au test".
 -   Sélectionnez le plan gratuit "Gratuit" et cliquez sur "S'abonner".
 -   Suivez les instructions pour vous inscrire à RapidAPI ou connectez-vous si vous avez déjà un compte.
@@ -48,7 +48,7 @@ GPT-3 signifie Generative Pre-trained Transformer 3. Il s'agit d'un modèle de l
 
 #### Qu'est-ce que cette extension de chat OpenAI ?
 
-Il s'agit d'une extension Chrome qui utilise GPT-3 pour générer des réponses pour le texte sélectionné sur n'importe quelle page Web. Il vous permet d'avoir une conversation avec GPT-3 en sélectionnant n'importe quel texte et en cliquant sur le menu contextuel.
+This is a Chrome extension that uses GPT-3 to generate responses for selected text on any webpage. It allows you to have a conversation with GPT-3 by selecting any text and clicking on the context menu.
 
 #### Comment fonctionne cette extension ?
 
