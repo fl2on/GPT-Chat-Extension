@@ -1,6 +1,6 @@
 # ملحق ويب Chat-GPT
 
-يعد OpenAI Chat Extension امتدادًا للمتصفح يتيح للمستخدمين إنشاء استجابات مدعومة بالذكاء الاصطناعي باستخدام واجهة برمجة تطبيقات الدردشة الخاصة بـ OpenAI. يمكن تنشيطه عن طريق تحديد نص في أي صفحة ويب والنقر بزر الماوس الأيمن لاختيار "إنشاء استجابة باستخدام OpenAI" من قائمة السياق. يرسل الامتداد بعد ذلك النص المحدد إلى واجهة برمجة تطبيقات الدردشة OpenAI ، والتي تنشئ استجابة يتم عرضها في نافذة منبثقة.
+The OpenAI Chat Extension is a browser extension that allows users to generate AI-powered responses using OpenAI's chat API. It can be activated by selecting text on any webpage and right-clicking to choose "Generate response with OpenAI" from the context menu. The extension then sends the selected text to the OpenAI chat API, which generates a response that is displayed in a pop-up window.
 
 ## ترجمة
 
@@ -28,13 +28,13 @@
 -   حدد الخطة "المجانية" وانقر على "اشتراك".
 -   اتبع التعليمات للتسجيل في RapidAPI أو تسجيل الدخول إذا كان لديك حساب بالفعل.
 -   في صفحة خدمة OpenAI API ، ابحث عن قسم - - "X-RapidAPI-Key" في قائمة رؤوس الطلبات المطلوبة.
--   انسخ مفتاح RapidAPI API إلى قسم "X-RapidAPI-Key" في ملف background.js بامتداد Chrome.
+-   انسخ مفتاح RapidAPI API في قسم "X-RapidAPI-Key" في ملف background.js في ملحق Chrome.
 
 ## تثبيت
 
 -   قم بتنزيل كود مصدر الامتداد من مستودع Github.
 -   قم باستخراج المجلد الذي تم تنزيله.
--   افتح Google Chrome وانتقل إلى صفحة "الإضافات". يمكنك القيام بذلك عن طريق كتابة "chrome: // extensions /" في شريط العناوين أو بالنقر على النقاط الثلاث في الزاوية اليمنى العليا من Chrome ، وتحديد "المزيد من الأدوات" ، ثم "الامتدادات".
+-   افتح Google Chrome وانتقل إلى صفحة "الإضافات". يمكنك القيام بذلك عن طريق كتابة "chrome: // extensions /" في شريط العناوين أو بالنقر على النقاط الثلاث في الزاوية العلوية اليمنى من Chrome ، وتحديد "المزيد من الأدوات" ، ثم "الامتدادات".
 -   بمجرد دخولك إلى صفحة "الإضافات" ، قم بتبديل المفتاح الموجود في الزاوية اليمنى العليا لتمكين وضع المطور.
 -   انقر فوق الزر "تحميل غير مضغوط" وحدد المجلد المستخرج الذي يحتوي على الكود المصدري للامتداد.
 -   بمجرد تحميل الامتداد ، يجب أن يظهر في شريط أدوات المتصفح.
