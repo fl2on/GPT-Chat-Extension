@@ -23,7 +23,7 @@ OpenAI Chat Extension は、ユーザーが OpenAI のチャット API を使用
 
 ## ドキュメンテーション
 
--   OpenAI API ページに移動します。[ラピッドAPI](https://rapidapi.com/openai-api-openai-api-default/api/openai80/)。
+-   OpenAI API ページに移動します。[ラピッドAPI](https://rapidapi.com/liuzhaolong765481/api/chatgpt-chatgpt3-5-chatgpt4/)。
 -   「テストを購読」ボタンをクリックします。
 -   無料の「Free」プランを選択し、「Subscribe」をクリックします。
 -   手順に従って RapidAPI にサインアップするか、すでにアカウントをお持ちの場合はログインします。
