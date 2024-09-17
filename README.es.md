@@ -15,7 +15,7 @@ OpenAI Chat Extension es una extensión de navegador que permite a los usuarios 
 ## Características
 
 -   Genera respuestas utilizando la API de chat de OpenAI
--   Integrates with Chrome context menus for easy access
+-   Se integra con los menús contextuales de Chrome para un fácil acceso
 -   Copias de respuesta generada al portapapeles para pegar rápidamente
 -   Proceso de instalación sencillo
 -   Documentación detallada y preguntas frecuentes
