@@ -6,11 +6,11 @@ L'OpenAI Chat Extension est une extension de navigateur qui permet aux utilisate
 
 | 🇺🇸                 | 🇨🇳                                 | 🇹🇼                                    | 🇮🇳                  | 🇫🇷                      | 🇦🇪                  | 🇩🇪                     | 🇯🇵                     | 🇪🇸                     |
 | -------------------- | ------------------------------------ | --------------------------------------- | --------------------- | ------------------------- | --------------------- | ------------------------ | ------------------------ | ------------------------ |
-| [Anglais](README.md) | [Chinois simplifié](README.zh-CN.md) | [Chinois traditionnel](README.zh-TW.md) | [hindi](README.hi.md) | [Française](README.fr.md) | [arabe](README.ar.md) | [Allemand](README.de.md) | [japonais](README.ja.md) | [Espagnol](README.es.md) |
+| [English](README.md) | [Chinois simplifié](README.zh-CN.md) | [Chinois traditionnel](README.zh-TW.md) | [hindi](README.hi.md) | [Française](README.fr.md) | [arabe](README.ar.md) | [Allemand](README.de.md) | [japonais](README.ja.md) | [Espagnol](README.es.md) |
 
 ## Captures d'écran
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1008195045960204349/1099103637608878090/New_Website_Blue_Mockup_Instagram_-_Laptop.gif)
+![App Screenshot](https://raw.githubusercontent.com/fl2on/GPT-Chat-Extension/main/GPT-Chat-Extension.gif)
 
 ## Caractéristiques
 
@@ -58,7 +58,7 @@ Lorsque vous sélectionnez un texte sur une page Web et cliquez sur le menu cont
 
 Oui, l'extension est sécurisée. Il ne fonctionne que sur le texte sélectionné et n'accède ni ne stocke aucune information personnelle. Cependant, il est toujours recommandé de faire preuve de prudence lors de l’installation d’une extension tierce.
 
-#### Can the website owner see the generated response?
+#### Le propriétaire du site Web peut-il voir la réponse générée ?
 
 Non, la réponse générée est uniquement affichée dans la zone d'alerte et n'est pas renvoyée au site Web ou à son propriétaire.
 
