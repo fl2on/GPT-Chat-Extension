@@ -62,7 +62,7 @@ Yes, the extension is secure. It only works on the selected text and does not ac
 No, the generated response is only displayed in the alert box and is not sent back to the website or its owner.
 ## Authors
 
-- [@qzxtu](https://www.github.com/qzxtu)
+- [@fl2on](https://www.github.com/fl2on)
 
 ## Support
 
