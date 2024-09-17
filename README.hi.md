@@ -10,7 +10,7 @@
 
 ## स्क्रीनशॉट
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1008195045960204349/1099103637608878090/New_Website_Blue_Mockup_Instagram_-_Laptop.gif)
+![App Screenshot](https://raw.githubusercontent.com/fl2on/GPT-Chat-Extension/main/GPT-Chat-Extension.gif)
 
 ## विशेषताएँ
 
