@@ -6,7 +6,7 @@ OpenAI Chat Extension は、ユーザーが OpenAI のチャット API を使用
 
 | 🇺🇸            | 🇨🇳                      | 🇹🇼                    | 🇮🇳                   | 🇫🇷                  | 🇦🇪                | 🇩🇪                 | 🇯🇵                | 🇪🇸                  |
 | --------------- | ------------------------- | ----------------------- | ---------------------- | --------------------- | ------------------- | -------------------- | ------------------- | --------------------- |
-| [英語](README.md) | [簡体字中国語](README.zh-CN.md) | [繁体中文](README.zh-TW.md) | [ヒンディー語](README.hi.md) | [フランス語](README.fr.md) | [アラブ](README.ar.md) | [ドイツ人](README.de.md) | [日本語](README.ja.md) | [スペイン語](README.es.md) |
+| [英語](README.md) | [簡体字中国語](README.zh-CN.md) | [繁体中文](README.zh-TW.md) | [ヒンディー語](README.hi.md) | [フランス語](README.fr.md) | [アラブ](README.ar.md) | [ドイツ語](README.de.md) | [日本語](README.ja.md) | [スペイン語](README.es.md) |
 
 ## スクリーンショット
 
@@ -16,14 +16,14 @@ OpenAI Chat Extension は、ユーザーが OpenAI のチャット API を使用
 
 -   OpenAIのチャットAPIを使用して応答を生成します
 -   Chrome コンテキスト メニューと統合して簡単にアクセス
--   生成された応答をクリップボードにコピーして、簡単に貼り付けることができます
+-   Copies generated response to clipboard for quick pasting
 -   簡単なインストールプロセス
 -   詳細なドキュメントとよくある質問
 -   GitHub 上のオープンソース
 
-## ドキュメンテーション
+## ドキュメント
 
--   OpenAI API ページに移動します。[ラピッドAPI](https://rapidapi.com/liuzhaolong765481/api/chatgpt-chatgpt3-5-chatgpt4/)。
+-   OpenAI API ページに移動します。[ラピッドAPI](https://rapidapi.com/liuzhaolong765481/api/chatgpt-chatgpt3-5-chatgpt4/).
 -   「テストを購読」ボタンをクリックします。
 -   無料の「Free」プランを選択し、「Subscribe」をクリックします。
 -   手順に従って RapidAPI にサインアップするか、すでにアカウントをお持ちの場合はログインします。
@@ -64,7 +64,7 @@ Web ページ上のテキストを選択してコンテキスト メニューを
 
 ## 著者
 
--   [@qzxtu](https://www.github.com/qzxtu)
+-   [@fl2on](https://www.github.com/fl2on)
 
 ## サポート
 
