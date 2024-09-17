@@ -26,7 +26,7 @@ OpenAI 聊天擴充功能是一個瀏覽器擴展，允許使用者使用 OpenAI
 -   前往 OpenAI API 頁面[快速API](https://rapidapi.com/liuzhaolong765481/api/chatgpt-chatgpt3-5-chatgpt4/).
 -   點選“訂閱測試”按鈕。
 -   選擇免費的“免費”計劃並點擊“訂閱”。
--   Follow the instructions to sign up for RapidAPI or log in if you already have an account.
+-   依照指示註冊 RapidAPI，如果您已有帳戶，請登入。
 -   在 OpenAI API 服務頁面上，在所需的請求標頭清單中尋找「X-RapidAPI-Key」部分。
 -   將 RapidAPI API 金鑰複製到 Chrome 擴充功能中的 background.js 檔案的「X-RapidAPI-Key」部分。
 
