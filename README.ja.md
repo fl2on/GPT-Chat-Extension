@@ -16,7 +16,7 @@ OpenAI Chat Extension は、ユーザーが OpenAI のチャット API を使用
 
 -   OpenAIのチャットAPIを使用して応答を生成します
 -   Chrome コンテキスト メニューと統合して簡単にアクセス
--   Copies generated response to clipboard for quick pasting
+-   生成された応答をクリップボードにコピーして、簡単に貼り付けることができます
 -   簡単なインストールプロセス
 -   詳細なドキュメントとよくある質問
 -   GitHub 上のオープンソース
