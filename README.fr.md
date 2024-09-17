@@ -58,7 +58,7 @@ Lorsque vous sélectionnez un texte sur une page Web et cliquez sur le menu cont
 
 Oui, l'extension est sécurisée. Il ne fonctionne que sur le texte sélectionné et n'accède ni ne stocke aucune information personnelle. Cependant, il est toujours recommandé de faire preuve de prudence lors de l’installation d’une extension tierce.
 
-#### Le propriétaire du site Web peut-il voir la réponse générée ?
+#### Can the website owner see the generated response?
 
 Non, la réponse générée est uniquement affichée dans la zone d'alerte et n'est pas renvoyée au site Web ou à son propriétaire.
 
