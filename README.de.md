@@ -6,7 +6,7 @@ Die OpenAI-Chat-Erweiterung ist eine Browser-Erweiterung, die es Benutzern ermö
 
 | 🇺🇸                  | 🇨🇳                                        | 🇹🇼                                         | 🇮🇳                  | 🇫🇷                        | 🇦🇪                   | 🇩🇪                    | 🇯🇵                      | 🇪🇸                     |
 | --------------------- | ------------------------------------------- | -------------------------------------------- | --------------------- | --------------------------- | ---------------------- | ----------------------- | ------------------------- | ------------------------ |
-| [Englisch](README.md) | [Vereinfachtes Chinesisch](README.zh-CN.md) | [traditionelles Chinesisch](README.zh-TW.md) | [Hindi](README.hi.md) | [Französisch](README.fr.md) | [Araber](README.ar.md) | [Deutsch](README.de.md) | [japanisch](README.ja.md) | [Spanisch](README.es.md) |
+| [Englisch](README.md) | [Vereinfachtes Chinesisch](README.zh-CN.md) | [Traditionelles Chinesisch](README.zh-TW.md) | [Hindi](README.hi.md) | [Französisch](README.fr.md) | [Araber](README.ar.md) | [Deutsch](README.de.md) | [japanisch](README.ja.md) | [Spanisch](README.es.md) |
 
 ## Screenshots
 
@@ -64,7 +64,7 @@ Nein, die generierte Antwort wird nur im Benachrichtigungsfeld angezeigt und nic
 
 ## Autoren
 
--   [@qzxtu](https://www.github.com/qzxtu)
+-   [@fl2on](https://www.github.com/fl2on)
 
 ## Unterstützung
 
