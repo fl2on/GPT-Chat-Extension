@@ -10,7 +10,7 @@ Die OpenAI-Chat-Erweiterung ist eine Browser-Erweiterung, die es Benutzern ermö
 
 ## Screenshots
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1008195045960204349/1099103637608878090/New_Website_Blue_Mockup_Instagram_-_Laptop.gif)
+![App Screenshot](https://raw.githubusercontent.com/fl2on/GPT-Chat-Extension/main/GPT-Chat-Extension.gif)
 
 ## Merkmale
 
@@ -44,7 +44,7 @@ Die OpenAI-Chat-Erweiterung ist eine Browser-Erweiterung, die es Benutzern ermö
 
 #### Was ist GPT-3?
 
-GPT-3 steht für Generative Pre-trained Transformer 3. Es handelt sich um ein von OpenAI entwickeltes fortschrittliches KI-Sprachmodell, das zur Verarbeitung und Generierung natürlicher Sprache fähig ist.
+GPT-3 steht für Generative Pre-trained Transformer 3. Es handelt sich um ein fortschrittliches KI-Sprachmodell, das von OpenAI entwickelt wurde und in der Lage ist, natürliche Sprache zu verarbeiten und zu generieren.
 
 #### Was ist diese OpenAI-Chat-Erweiterung?
 
