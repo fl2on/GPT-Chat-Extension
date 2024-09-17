@@ -2,23 +2,23 @@
 
 OpenAI 聊天扩展是一个浏览器扩展，允许用户使用 OpenAI 的聊天 API 生成人工智能驱动的响应。可以通过选择任何网页上的文本并右键单击并从上下文菜单中选择“使用 OpenAI 生成响应”来激活它。然后，扩展程序将选定的文本发送到 OpenAI 聊天 API，该 API 会生成显示在弹出窗口中的响应。
 
-## Translation
+## 翻译
 
-| 🇺🇸                 | 🇨🇳                    | 🇹🇼                    | 🇮🇳                | 🇫🇷               | 🇦🇪                | 🇩🇪               | 🇯🇵                | 🇪🇸                    |
-| -------------------- | ----------------------- | ----------------------- | ------------------- | ------------------ | ------------------- | ------------------ | ------------------- | ----------------------- |
-| [English](README.md) | [简体中文](README.zh-CN.md) | [繁体中文](README.zh-TW.md) | [印地语](README.hi.md) | [法语](README.fr.md) | [阿拉伯](README.ar.md) | [德语](README.de.md) | [日本人](README.ja.md) | [Español](README.es.md) |
+| 🇺🇸            | 🇨🇳                    | 🇹🇼                    | 🇮🇳                | 🇫🇷               | 🇦🇪                | 🇩🇪               | 🇯🇵                | 🇪🇸                 |
+| --------------- | ----------------------- | ----------------------- | ------------------- | ------------------ | ------------------- | ------------------ | ------------------- | -------------------- |
+| [英语](README.md) | [简体中文](README.zh-CN.md) | [繁体中文](README.zh-TW.md) | [印地语](README.hi.md) | [法语](README.fr.md) | [阿拉伯](README.ar.md) | [德语](README.de.md) | [日本人](README.ja.md) | [西班牙语](README.es.md) |
 
 ## 截图
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1008195045960204349/1099103637608878090/New_Website_Blue_Mockup_Instagram_-_Laptop.gif)
+![App Screenshot](https://raw.githubusercontent.com/fl2on/GPT-Chat-Extension/main/GPT-Chat-Extension.gif)
 
 ## 特征
 
 -   使用 OpenAI 的聊天 API 生成响应
 -   与 Chrome 上下文菜单集成以方便访问
 -   将生成的响应复制到剪贴板以便快速粘贴
--   Simple installation process
--   详细文档和常见问题解答
+-   安装过程简单
+-   详细的文档和常见问题解答
 -   在 GitHub 上开源
 
 ## 文档
@@ -34,7 +34,7 @@ OpenAI 聊天扩展是一个浏览器扩展，允许用户使用 OpenAI 的聊�
 
 -   从 Github 存储库下载扩展的源代码。
 -   解压下载的文件夹。
--   打开 Google Chrome 并导航至“扩展”页面。您可以通过在地址栏中输入“chrome://extensions/”或单击 Chrome 右上角的三个点，选择“更多工具”，然后选择“扩展”来执行此操作。
+-   打开 Google Chrome 并导航至“扩展”页面。您可以通过在地址栏中键入“chrome://extensions/”或单击 Chrome 右上角的三个点，选择“更多工具”，然后选择“扩展”来执行此操作。
 -   进入“扩展”页面后，切换右上角的开关以启用开发人员模式。
 -   单击“加载解压”按钮，然后选择包含扩展源代码的解压文件夹。
 -   加载扩展程序后，它应该出现在浏览器的工具栏中。
@@ -50,7 +50,7 @@ GPT-3代表Generative Pre-trained Transformer 3。它是OpenAI开发的一种能
 
 这是一个 Chrome 扩展程序，使用 GPT-3 为任何网页上的选定文本生成响应。它允许您通过选择任何文本并单击上下文菜单来与 GPT-3 进行对话。
 
-#### How does this extension work?
+#### 这个扩展是如何工作的？
 
 当您选择网页上的任何文本并单击上下文菜单时，扩展程序会向 OpenAI API 发送请求，并将所选文本作为输入。 API 使用生成的响应进行响应，然后将其显示在警报框中。
 
